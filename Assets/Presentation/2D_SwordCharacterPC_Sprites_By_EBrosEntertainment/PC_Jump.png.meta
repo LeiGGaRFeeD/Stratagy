@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 967364ba78b431a47bc77e0dc20049d0
+guid: cea906d6b31b54a14a00dcc85d8ca240
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -121,7 +121,133 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: PC_Jump_0
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 57
+        width: 88
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14846cafcd3174ac0bf37d7439809374
+      internalID: -179416806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Jump_1
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 57
+        width: 91
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3669261978960472cac2766e52aa7aaa
+      internalID: 448349849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Jump_2
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 58
+        width: 94
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1a689a4444e419a9c3665a5542498c
+      internalID: 970197553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Jump_3
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 62
+        width: 93
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3891fcb95253e47dd8b3cb0b5531366a
+      internalID: -1646350722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Jump_4
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 67
+        width: 90
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad5baefbc5ed455fbe21e71e3980763
+      internalID: 1475833405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Jump_5
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 67
+        width: 84
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd61f247d038c48a3a27045b6ebb6ff5
+      internalID: -500021677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -132,7 +258,13 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PC_Jump_0: -179416806
+      PC_Jump_1: 448349849
+      PC_Jump_2: 970197553
+      PC_Jump_3: -1646350722
+      PC_Jump_4: 1475833405
+      PC_Jump_5: -500021677
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

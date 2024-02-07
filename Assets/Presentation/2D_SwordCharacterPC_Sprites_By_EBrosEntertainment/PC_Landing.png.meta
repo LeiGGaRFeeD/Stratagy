@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: e643b395601f37042b15bd2bab49ffc9
+guid: 2421c8657193641d89eb1544ba01dc97
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -123,13 +123,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: PC_Idle_0
+      name: PC_Landing_0
       rect:
         serializedVersion: 2
-        x: 79
-        y: 825
+        x: 78
+        y: 876
         width: 84
-        height: 129
+        height: 99
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -137,20 +137,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 77936381ea9402c44a2db85d48a6426b
-      internalID: -1682244091
+      spriteID: 23a48c4a5324949d29773f52e3366b53
+      internalID: 137675923
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PC_Idle_1
+      name: PC_Landing_1
       rect:
         serializedVersion: 2
-        x: 335
-        y: 825
-        width: 84
-        height: 129
+        x: 330
+        y: 874
+        width: 96
+        height: 97
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -158,20 +158,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d766302fdf6dff044be61f3977cc06f2
-      internalID: -1550445929
+      spriteID: 99fbcf6cd43ad46d3afa13a8a26dd8c5
+      internalID: -2091847451
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PC_Idle_2
+      name: PC_Landing_2
       rect:
         serializedVersion: 2
-        x: 592
-        y: 825
-        width: 83
-        height: 129
+        x: 580
+        y: 859
+        width: 112
+        height: 110
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -179,20 +179,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f9875689442b8d941bc36e4c8cf86564
-      internalID: -52626214
+      spriteID: 32b35bb32cd7d48c5a5a41533e67d4de
+      internalID: -429887881
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PC_Idle_3
+      name: PC_Landing_3
       rect:
         serializedVersion: 2
-        x: 848
-        y: 825
-        width: 83
-        height: 129
+        x: 833
+        y: 835
+        width: 120
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -200,20 +200,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 758e2f951cea2a14cb6e5ee65aac5a19
-      internalID: 1983961763
+      spriteID: 291f392c688ed4c439434475dd19d3c3
+      internalID: -938763778
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PC_Idle_4
+      name: PC_Landing_4
       rect:
         serializedVersion: 2
-        x: 80
+        x: 64
         y: 569
-        width: 83
-        height: 129
+        width: 125
+        height: 120
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -221,20 +221,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c9330c8ac301b084188c6824c6b4604a
-      internalID: 1983737649
+      spriteID: 57cbd66bbc2d144b5b2f3d0f27a34cec
+      internalID: -1482002455
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PC_Idle_5
+      name: PC_Landing_5
       rect:
         serializedVersion: 2
-        x: 336
+        x: 315
         y: 569
-        width: 83
-        height: 129
+        width: 132
+        height: 105
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -242,20 +242,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3edd43536ceba0f428d0f7df2df7ea0d
-      internalID: -1976397871
+      spriteID: a91e327ddeeb44043b2bbb4a61f6573c
+      internalID: 1777049366
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PC_Idle_6
+      name: PC_Landing_6
       rect:
         serializedVersion: 2
-        x: 592
+        x: 570
         y: 569
-        width: 83
-        height: 129
+        width: 124
+        height: 93
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -263,20 +263,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7e6ffe9ecced0f141a19d9b578e3cb9f
-      internalID: 381770021
+      spriteID: 165c0f7729bb64fed827f1a55641ce81
+      internalID: -2144686461
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PC_Idle_7
+      name: PC_Landing_7
       rect:
         serializedVersion: 2
-        x: 848
+        x: 827
         y: 569
-        width: 83
-        height: 129
+        width: 115
+        height: 85
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -284,20 +284,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d78decf29ab4bd94986da128b6adb4fc
-      internalID: 304439054
+      spriteID: cf7f5deb58fe94a0580585630480a104
+      internalID: 1879270320
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PC_Idle_8
+      name: PC_Landing_8
       rect:
         serializedVersion: 2
-        x: 80
+        x: 61
         y: 313
-        width: 83
-        height: 129
+        width: 110
+        height: 87
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -305,20 +305,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 178f55feb87b2b1468c6f67c4deaf42e
-      internalID: 2095162764
+      spriteID: a9465e9bdab6f455e92c4135d807179c
+      internalID: 12826756
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PC_Idle_9
+      name: PC_Landing_9
       rect:
         serializedVersion: 2
-        x: 336
+        x: 319
         y: 313
-        width: 83
-        height: 129
+        width: 105
+        height: 97
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -326,20 +326,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 818f3eafb2d91894db460e5c8a8eb4fd
-      internalID: 1655658218
+      spriteID: e9901c3f2101247f0ad381f21a699a62
+      internalID: 500657397
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PC_Idle_10
+      name: PC_Landing_10
       rect:
         serializedVersion: 2
-        x: 592
+        x: 578
         y: 313
-        width: 83
-        height: 129
+        width: 99
+        height: 109
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -347,20 +347,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 45d6092475e423f41acc28886f58d3b0
-      internalID: -551030744
+      spriteID: 1ad99376dd62c40298da23dd927f7d54
+      internalID: 778826572
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PC_Idle_11
+      name: PC_Landing_11
       rect:
         serializedVersion: 2
-        x: 848
+        x: 837
         y: 313
-        width: 83
-        height: 129
+        width: 93
+        height: 119
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -368,20 +368,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0b5aed78cb8fa4a48982ab7b3d703514
-      internalID: -580533081
+      spriteID: 28bc2a5b69ffb4d688f70b45a7ef5ce3
+      internalID: -1539254402
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PC_Idle_12
+      name: PC_Landing_12
       rect:
         serializedVersion: 2
-        x: 80
+        x: 72
         y: 57
-        width: 83
-        height: 129
+        width: 89
+        height: 125
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -389,20 +389,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bf27afab67a3b7441934efaab1185cb9
-      internalID: 1065167439
+      spriteID: c81eedc6e73cb4da2a18b18d84d31c03
+      internalID: 132198448
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PC_Idle_13
+      name: PC_Landing_13
       rect:
         serializedVersion: 2
-        x: 336
+        x: 329
         y: 57
-        width: 83
-        height: 128
+        width: 87
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -410,20 +410,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0f82ef757ddbd33499f803badcaf0deb
-      internalID: -1150091785
+      spriteID: 72031d0dc210f4f28936bd68667ce2cf
+      internalID: 639674673
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PC_Idle_14
+      name: PC_Landing_14
       rect:
         serializedVersion: 2
-        x: 591
+        x: 586
         y: 57
-        width: 84
-        height: 128
+        width: 86
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -431,20 +431,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b6e45f3aabc46ce46a7700a6c3e9d01e
-      internalID: -2131795017
+      spriteID: 588b5ff4e8a564466ace56eb6b4852e1
+      internalID: 2108418135
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PC_Idle_15
+      name: PC_Landing_15
       rect:
         serializedVersion: 2
-        x: 847
+        x: 842
         y: 57
-        width: 84
-        height: 129
+        width: 86
+        height: 126
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -452,8 +452,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d1cbf4fc44b08ef4985b2000c305bed9
-      internalID: 1026524268
+      spriteID: 203a0175236db470685af10d6822918d
+      internalID: -1388036688
       vertices: []
       indices: 
       edges: []
@@ -469,22 +469,22 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      PC_Idle_0: -1682244091
-      PC_Idle_1: -1550445929
-      PC_Idle_10: -551030744
-      PC_Idle_11: -580533081
-      PC_Idle_12: 1065167439
-      PC_Idle_13: -1150091785
-      PC_Idle_14: -2131795017
-      PC_Idle_15: 1026524268
-      PC_Idle_2: -52626214
-      PC_Idle_3: 1983961763
-      PC_Idle_4: 1983737649
-      PC_Idle_5: -1976397871
-      PC_Idle_6: 381770021
-      PC_Idle_7: 304439054
-      PC_Idle_8: 2095162764
-      PC_Idle_9: 1655658218
+      PC_Landing_0: 137675923
+      PC_Landing_1: -2091847451
+      PC_Landing_10: 778826572
+      PC_Landing_11: -1539254402
+      PC_Landing_12: 132198448
+      PC_Landing_13: 639674673
+      PC_Landing_14: 2108418135
+      PC_Landing_15: -1388036688
+      PC_Landing_2: -429887881
+      PC_Landing_3: -938763778
+      PC_Landing_4: -1482002455
+      PC_Landing_5: 1777049366
+      PC_Landing_6: -2144686461
+      PC_Landing_7: 1879270320
+      PC_Landing_8: 12826756
+      PC_Landing_9: 500657397
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
